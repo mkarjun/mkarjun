@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Manoj Kumar</h1>
 <p align="center">
-  <img width="1000px" height="300px" src="mkarjunbnr.png" alt="hello">
+  <img width="800px" height="308px" src="amkbnr.gif" alt="hello">
 </p>
 <h3 align="center">Kerala-based,UAE bred,fueled by strong coffee|Self taught DevOps engineer</h3>
 
