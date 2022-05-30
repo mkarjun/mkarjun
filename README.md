@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **arjun@mkarjun.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rNCNobPLpCJVgaGIvIpHglZYmQxy797k/view](https://drive.google.com/file/d/1rNCNobPLpCJVgaGIvIpHglZYmQxy797k/view)
+- 📄<p class="copyright">&copy; Resume pdf: <a href="https://drive.google.com/file/d/1rNCNobPLpCJVgaGIvIpHglZYmQxy797k/view?usp=sharing">Arjun Manoj Kumar</a>.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
