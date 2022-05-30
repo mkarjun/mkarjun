@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Manoj Kumar</h1>
 <p align="center">
-  <img width="1000px" height="200px" src="mkarjunbnr.png" alt="hello">
+  <img width="1000px" height="300px" src="mkarjunbnr.png" alt="hello">
 </p>
 <h3 align="center">Kerala-based,UAE bred,fueled by strong coffee|Self taught DevOps engineer</h3>
 
@@ -39,5 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkarjun&show_icons=true&locale=en" alt="mkarjun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkarjun&" alt="mkarjun" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mkarjun&" alt="mkarjun" /></p>
 
