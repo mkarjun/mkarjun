@@ -4,9 +4,7 @@
 </p>
 <h3 align="center">Kerala-based,UAE bred,fueled by strong coffee|Self taught DevOps engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkarjun" alt="mkarjun" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@arjun_manoj_" target="blank"><img src="https://img.shields.io/twitter/follow/@ajun_manoj_?logo=Arjun&style=social" alt="@arjun_manoj_" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkarjun&theme=tokyonight" alt="mkarjun" /></a> </p>
 
 - 🔭 I’m currently working on a [Realestate site](http://gamakh.com/)
 - 👨‍💻 All of my projects are available at [https://mkarjun.com/](https://mkarjun.com/)
