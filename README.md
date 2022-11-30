@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a [Realestate site](http://gamakh.com/)
 - 👨‍💻 All of my projects are available at [https://mkarjun.com/](https://mkarjun.com/)
 - 📝 I write articles on [https://content.mkarjun.com/](https://content.mkarjun.com/)
-<p class="copyright">&copy;"  " 📄 Resume pdf: <a href="https://drive.google.com/file/d/1rNCNobPLpCJVgaGIvIpHglZYmQxy797k/view?usp=sharing">Arjun Manoj Kumar</a>.</p>
+<p class="copyright">&copy; &ensp; 📄 Resume pdf: <a href="https://drive.google.com/file/d/1rNCNobPLpCJVgaGIvIpHglZYmQxy797k/view?usp=sharing">Arjun Manoj Kumar</a>.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
