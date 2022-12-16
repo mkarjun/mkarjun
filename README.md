@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkarjun&show_icons=true&locale=en&theme=tokyonight" alt="mkarjun" /></p>
 
-[![Arjun's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkarjun&theme=xcode)](https://git.io/mkarjun)
+[Arjun's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkarjun&theme=xcode)](https://git.io/mkarjun)
 <p align="center">
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mkarjun&theme=tokyonight" alt="mkarjun"/>
