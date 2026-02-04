@@ -48,7 +48,6 @@ Beyond my day job, I help businesses with digital transformation and web solutio
 *Interested in collaborating? Reach out via [email](mailto:arjun@mkarjun.com) or [schedule a call](https://calendly.com/arjun-mk)*
 
 </details>
----
 
 ## 🛠️ Tech Stack
 
