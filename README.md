@@ -34,6 +34,20 @@ DevOps Engineer with **5+ years** crafting resilient, automated infrastructure a
 - 🔧 Diploma in Mechatronics from **NTTF**
 - 📍 Based in **Kozhikode, Kerala, India**
 
+<details>
+<summary>💼 <b>Freelance & Consulting</b> — I occasionally take on select projects</summary>
+<br>
+
+Beyond my day job, I help businesses with digital transformation and web solutions on a limited basis:
+
+- 🌐 **Custom Wedding Websites** — Beautiful, personalized digital invitations
+- 🚀 **Digital Transformation Consulting** — Helping SMBs modernize their tech stack
+- ☁️ **Cloud Architecture Reviews** — Infrastructure audits and optimization
+- 🤖 **AI & Automation Solutions** — Streamlining workflows with AI tools
+- Visit https://gamakcs.com For more details.
+*Interested in collaborating? Reach out via [email](mailto:arjun@mkarjun.com) or [schedule a call](https://calendly.com/arjun-mk)*
+
+</details>
 ---
 
 ## 🛠️ Tech Stack
@@ -115,20 +129,6 @@ DevOps Engineer with **5+ years** crafting resilient, automated infrastructure a
 | 💒 **[Wedding Invitations](https://sudhinanupama.gamakcs.com/)** | Custom digital wedding invitation websites with animations & RSVP | Web Design, Animations, Custom Sites |
 
 </div>
-
-<details>
-<summary>💼 <b>Freelance & Consulting</b> — I occasionally take on select projects</summary>
-<br>
-
-Beyond my day job, I help businesses with digital transformation and web solutions on a limited basis:
-
-- 🌐 **Custom Wedding Websites** — Beautiful, personalized digital invitations
-- 🚀 **Digital Transformation Consulting** — Helping SMBs modernize their tech stack
-- ☁️ **Cloud Architecture Reviews** — Infrastructure audits and optimization
-
-*Interested in collaborating? Reach out via [email](mailto:arjun@mkarjun.com) or [schedule a call](https://calendly.com/arjun-mk)*
-
-</details>
 
 ---
 
