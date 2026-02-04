@@ -147,13 +147,28 @@ DevOps Engineer with **5+ years** crafting resilient, automated infrastructure a
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkarjun&theme=tokyonight&no-frame=true&row=1" alt="mkarjun" /></a>
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mkarjun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="mkarjun trophies" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mkarjun&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="mkarjun" />
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=mkarjun&theme=tokyonight&hide_border=true" alt="mkarjun"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=mkarjun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkarjun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
-[![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mkarjun&theme=tokyo-night)](https://github.com/mkarjun)
+<br><br>
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mkarjun&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkarjun&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
