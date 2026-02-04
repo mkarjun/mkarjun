@@ -149,9 +149,9 @@ DevOps Engineer with **5+ years** crafting resilient, automated infrastructure a
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkarjun&theme=tokyonight&no-frame=true&row=1" alt="mkarjun" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mkarjun&show_icons=true&locale=en&theme=tokyonight" alt="mkarjun" />
+<img src="https://github-readme-stats.vercel.app/api?username=mkarjun&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="mkarjun" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkarjun&theme=tokyonight" alt="mkarjun"/>
+<img src="https://streak-stats.demolab.com/?user=mkarjun&theme=tokyonight&hide_border=true" alt="mkarjun"/>
 
 [![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mkarjun&theme=tokyo-night)](https://github.com/mkarjun)
 
@@ -164,7 +164,6 @@ DevOps Engineer with **5+ years** crafting resilient, automated infrastructure a
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-arjun@mkarjun.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun@mkarjun.com)
-[![Phone](https://img.shields.io/badge/Call-+91_735_663_8693-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917356638693)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mkarjun.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mkarjun.com/)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-red?style=for-the-badge)](https://drive.google.com/file/d/1e3svzL89g3u7CvXkduU9tFS1n3hMoIgC/view?usp=sharing)
 [![Detailed CV](https://img.shields.io/badge/📋_Detailed_CV-View-orange?style=for-the-badge)](https://drive.google.com/file/d/1MYcErceMvZhJwaOCwv8auM5g5sKQFmk_/view)
