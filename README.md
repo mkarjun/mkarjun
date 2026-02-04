@@ -44,10 +44,10 @@ Beyond my day job, I help businesses with digital transformation and web solutio
 - 🚀 **Digital Transformation Consulting** — Helping SMBs modernize their tech stack
 - ☁️ **Cloud Architecture Reviews** — Infrastructure audits and optimization
 - 🤖 **AI & Automation Solutions** — Streamlining workflows with AI tools
-- Visit https://gamakcs.com For more details.
-----
+- Visit ![🇬](https://gamakcs.com) For more details.
+
 *Interested in collaborating? Reach out via [email](mailto:arjun@mkarjun.com) or [schedule a call](https://calendly.com/arjun-mk)*
-----
+
 
 </details>
 
