@@ -221,6 +221,3 @@ Beyond my day job, I help businesses with digital transformation and web solutio
 ![Profile Views](https://komarev.com/ghpvc/?username=mkarjun&color=blueviolet&style=flat-square)
 
 </div>
-
-
-[def]: https://gamakcs.com
