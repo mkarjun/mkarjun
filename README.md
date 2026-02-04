@@ -112,8 +112,23 @@ DevOps Engineer with **5+ years** crafting resilient, automated infrastructure a
 | 🏠 **Home Server Lab** | 24/7 Ubuntu server running 7 Docker containers for personal infrastructure | Docker, Jellyfin, Home Assistant, n8n, Grafana, Pi-hole |
 | ⚡ **Smart Metering System** | IoT system for real-time utility monitoring via web dashboard | IoT, Sensors, Real-time Data |
 | 🤖 **[Personal Assistant Robot](https://www.youtube.com/watch?v=Mkc4fw-3o4I)** | Assistive robot controlled via hand gestures for disabled individuals | Robotics, Arduino, Gesture Control |
+| 💒 **[Wedding Invitations](https://sudhinanupama.gamakcs.com/)** | Custom digital wedding invitation websites with animations & RSVP | Web Design, Animations, Custom Sites |
 
 </div>
+
+<details>
+<summary>💼 <b>Freelance & Consulting</b> — I occasionally take on select projects</summary>
+<br>
+
+Beyond my day job, I help businesses with digital transformation and web solutions on a limited basis:
+
+- 🌐 **Custom Wedding Websites** — Beautiful, personalized digital invitations
+- 🚀 **Digital Transformation Consulting** — Helping SMBs modernize their tech stack
+- ☁️ **Cloud Architecture Reviews** — Infrastructure audits and optimization
+
+*Interested in collaborating? Reach out via [email](mailto:arjun@mkarjun.com) or [schedule a call](https://calendly.com/arjun-mk)*
+
+</details>
 
 ---
 
