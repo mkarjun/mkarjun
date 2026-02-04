@@ -44,7 +44,7 @@ Beyond my day job, I help businesses with digital transformation and web solutio
 - 🚀 **Digital Transformation Consulting** — Helping SMBs modernize their tech stack
 - ☁️ **Cloud Architecture Reviews** — Infrastructure audits and optimization
 - 🤖 **AI & Automation Solutions** — Streamlining workflows with AI tools
-- Visit ![🇬](https://gamakcs.com) For more details.
+- Visit ![GAMAK][https://gamakcs.com/favicon.svg] For more details.
 
 *Interested in collaborating? Reach out via [email](mailto:arjun@mkarjun.com) or [schedule a call](https://calendly.com/arjun-mk)*
 
@@ -220,3 +220,6 @@ Beyond my day job, I help businesses with digital transformation and web solutio
 ![Profile Views](https://komarev.com/ghpvc/?username=mkarjun&color=blueviolet&style=flat-square)
 
 </div>
+
+
+[def]: https://gamakcs.com
