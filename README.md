@@ -154,16 +154,16 @@ DevOps Engineer with **5+ years** crafting resilient, automated infrastructure a
 
 <br><br>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=mkarjun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<!-- GitHub Stats Card - Using alternative instance -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mkarjun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkarjun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mkarjun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
 <br><br>
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mkarjun&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mkarjun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br><br>
 
