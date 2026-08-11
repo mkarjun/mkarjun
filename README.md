@@ -136,6 +136,7 @@ Beyond my day job, I help businesses with digital transformation and web solutio
 
 ## 📝 Latest Articles
 
+- 📕[Toy RAG to Production](https://abilytics.com/insights/rebuilding-internal-sales-copilot-databricks-rag-production)- Rebuilding Our Internal Sales Copilot on Databricks]
 - 📘 [DeepSeek Unleashed – Part 2: The Core](https://abilytics.com/deepseek-unleashed-part-2-the-core/) - Run DeepSeek locally with Ollama
 - 📗 [DeepSeek Unleashed – Part 1: From Bedrock to Control](https://content.mkarjun.com/deepseek-from-bedrock-to-control) - Running DeepSeek on AWS Bedrock
 - 📙 [The Future of Platform Engineering 2025](https://content.mkarjun.com/the-future-of-platform-engineering-2025) - Trends and predictions
